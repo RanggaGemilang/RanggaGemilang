@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rangga Gemilang.
 - 👀 I’m interested in Everything.
 - 🌱 I’m currently learning Data Processing.
-- 💞️ I’m looking to collaborate on Anything.
+- 💞️ look at my portofolio: https://rpubs.com/ranggagemilang
 - 📫 How to reach me gemilang.rangga94@gmail.com
 
 <!---
