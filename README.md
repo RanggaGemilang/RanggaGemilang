@@ -1,4 +1,4 @@
-### Rangga Gemilang
+### 👋 Hi, I'm Rangga Gemilang!
 
 **`Data Analysis`** **`Data Science`**  **`Marketing Analytics`**
 
